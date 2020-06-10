@@ -1,0 +1,13 @@
+{
+  "name": "my-awesome-extension",
+  "version": "1.0.0",
+  "description": "the best extension you will ever find.",
+  "main": "index.js",
+  "repository": "https://github.com/rajmohan006/MyCustomExtensions1",
+  "author": "Raj",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
